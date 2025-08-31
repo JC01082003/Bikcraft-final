@@ -1,10 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,900;1,18..144,900&display=swap");
 
 @import "./Global/Global.css";
 @import "./Global/header.css";
+@import "./Global/footer.css";
 @import "./Home/introdução.css";
 @import "./Utilidades/componentes.css";
 @import "./Utilidades/Tipografias.css";
 @import "./Utilidades/cores.css";
 @import "./Bicicletas/bicicletas-lista.css";
 @import "./Home/tecnologia.css";
+@import "./Home/parceiros.css";
+@import "/Home/depoimento.css";
+@import "./Seguros/seguros.css";
+@import "./termos/termos.css";
+@import "./Bicicletas/Bicicletas.css";
+@import "./Seguros/vantagens.css";
+@import "./Seguros/perguntas.css";
+@import "./Bicicletas2/nimbus.html";
+@import "./bicicleta/bicicleta.css";
